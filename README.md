@@ -3,5 +3,5 @@ A Python program to randomize a multiple choice quiz by entering the question an
 ## Purpose
 To have randomized copies of the same test question and answers
 ## Tools And Software Used
--PyCharm 2019.2.2
--Python 3.7
+- PyCharm 2019.2.2
+- Python 3.7
